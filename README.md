@@ -5,7 +5,7 @@
 
 ### Soy estudiante de Ingenieria de Software.
 
-- Tengo conocimientos previos de la programacion en el Back y Front, tambien en la parte de la base de datos.
+- Tengo conocimientos previos de la programacion en el Back y Front.
 
 - Conocimientos previos de Frameworks, como es Angular y Django.
    
