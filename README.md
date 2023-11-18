@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/kdiLau77NE9Z8vxGSO/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="235">
   <h1>Hola soy Diego Diaz</h1>
 </div>
 
