@@ -34,7 +34,7 @@
 ### 📱 Contáctame
 
 <div align="left"> 
-  <a href="https://www.linkedin.com/in/diego-díaz/" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-díaz-8257a5213/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
   </a>
   <a href="mailto:diegoalejandrodiazramos@gmail.com">
