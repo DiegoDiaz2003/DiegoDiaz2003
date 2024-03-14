@@ -29,7 +29,7 @@
    
 ### 📈 Mis estadísticas en Github
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukeUchiha&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoDiaz2003&show_icons=true&theme=radical)
 
   
 ### 📱 Contáctame
