@@ -1,13 +1,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="235">
-  <h1>Hola soy Diego Diaz</h1>
+  <h1> Hi, I'm Diego Diaz </h1>
 </div>
 
-### Soy estudiante de Ingenieria de Software.
+### I'm a Software Engineering Student & Junior DevOps Analyst
 
-- Tengo conocimientos previos de la programacion en el Back y Front.
+- Knowledge in cloud platforms like **Azure** and **AWS**.
+- 
+- Experience with **Azure DevOps, Jenkins, and SonarQube**.  
 
-- Conocimientos previos de Frameworks, como es Angular y Django.
    
 ---
 
