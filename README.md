@@ -6,13 +6,12 @@
 ### I'm a Software Engineering Student & Junior DevOps Analyst
 
 - Knowledge in cloud platforms like **Azure** and **AWS**.
-- 
 - Experience with **Azure DevOps, Jenkins, and SonarQube**.  
 
    
 ---
 
-### 🔨 Lenguajes - FrameWorks - Librerias - Herramientas
+### 🔨 Languages - Frameworks - Libraries - Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="HTML5" alt="HTML" width="30" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="HTML5" alt="HTML" width="30" height="30">
