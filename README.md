@@ -39,18 +39,15 @@ Soy Diego Alejandro Diaz Ramos, ingeniero de software enfocado en DevSecOps y es
 ## Estadisticas
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoDiaz2003&theme=github_dark" width="100%" alt="Resumen de actividad de GitHub" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiegoDiaz2003&theme=github_dark" height="165" alt="Estadisticas de GitHub" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiegoDiaz2003&theme=github_dark" height="165" alt="Lenguajes mas usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiegoDiaz2003&theme=github_dark" height="165" alt="Lenguajes por repositorio" />
 </div>
 
-## Snake
+## Actividad
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
-    <img src="./dist/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=DiegoDiaz2003&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones en GitHub" />
 </div>
 
 ## Contacto
