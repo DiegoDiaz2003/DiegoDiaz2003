@@ -32,6 +32,7 @@ Soy Diego Alejandro Diaz Ramos 🦆, Ingeniero de Software enfocado en DevSecOps
   <img src="https://img.shields.io/badge/OPA-7D4CDB?style=for-the-badge&logo=openpolicyagent&logoColor=white" alt="Open Policy Agent" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/IaC-334155?style=for-the-badge&logoColor=white" alt="Infrastructure as Code" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </div>
