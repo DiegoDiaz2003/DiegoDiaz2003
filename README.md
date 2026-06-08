@@ -5,7 +5,7 @@
 
 ## Perfil
 
-Soy Diego Alejandro Diaz Ramos, ingeniero de software enfocado en DevSecOps y estudiante de Maestria en DevOps. Trabajo en la optimizacion del ciclo de vida del desarrollo mediante flujos CI/CD, automatizacion, seguridad operativa e infraestructura moderna.
+Soy Diego Alejandro Diaz Ramos 🦆, Ingeniero de Software enfocado en DevSecOps y estudiante de Maestria en DevOps. Trabajo en la optimizacion del ciclo de vida del desarrollo mediante flujos CI/CD, automatizacion, seguridad operativa e infraestructura moderna.
 
 - Implemento pipelines y despliegue continuo con Azure DevOps, Azure Pipelines y Jenkins.
 - Trabajo con Docker, Kubernetes, Argo CD y servidores Linux.
