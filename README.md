@@ -53,7 +53,7 @@ Soy Diego Alejandro Diaz Ramos, ingeniero de software enfocado en DevSecOps y es
 ## Contacto
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diego-diaz-8257a5213/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/diego-alejandro-diaz-ramos/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42" />
   </a>
   <a href="mailto:diegoalejandrodiazramos@gmail.com">
